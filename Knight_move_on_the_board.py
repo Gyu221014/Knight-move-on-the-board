@@ -1,4 +1,4 @@
-n=int(input("(5이상)정사각형 행열 : "))
+n=int(input("(n x n) 행열 : "))
 a=int(input("X시작 위치 : "))
 b=int(input("Y시작 위치 : "))
 
